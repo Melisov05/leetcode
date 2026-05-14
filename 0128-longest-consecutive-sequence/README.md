@@ -1,0 +1,3 @@
+In this problem I created a hashset to get rid of duplicates and look up the numbers. 
+
+To not waste our resources checking the same things over and over we need to figure out where the actual start is and skip the rest. For that purpose we do look ups in our hashset. If x-1 not in set, then it's a start, so after that we check x+1, x+2, ... to count the sequence, after that we store the length of the best sequence

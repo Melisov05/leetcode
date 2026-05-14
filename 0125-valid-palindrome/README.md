@@ -1,0 +1,1 @@
+I used two variables that go from opposite sides and stop at the intersection. We check if the values are the same, if they are then we keep going, otherwise we return false. isalnum() method was used to skip non alphabetical characters 

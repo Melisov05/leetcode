@@ -1,0 +1,1 @@
+Two pointers idea. the array is sorted so we can safelly toggle the pointers to increase or reduce the total value. If it's too big move the right pointer to the left, if it's too smal move the left pointer to the right. There will always be exactly one valid solution.
